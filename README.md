@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and blockchain
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in thefuture
-- 📫 You cant reach me for the moment
+- 📫 You can not reach me for the moment
 
 <!---
 BillWang123/BillWang123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
